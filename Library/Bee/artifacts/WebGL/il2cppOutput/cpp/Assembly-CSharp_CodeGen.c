@@ -1,0 +1,86 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void NameToPrefab__ctor_m2A2ABF7FADCC8D18FFD36566EC1664D90396E876 (void);
+extern void ImageTrackingObjectManager_OnEnable_m2FB5E4DCEF00BE8916CE4BB7BB3A1856599536E7 (void);
+extern void ImageTrackingObjectManager_OnDisable_mC4DD4735EAA6EA59FCF14C34ACB0E55506A5157E (void);
+extern void ImageTrackingObjectManager_OnTrackedImagesChanged_mAFD7E2558B8F2573C85374029B2131F8414539E9 (void);
+extern void ImageTrackingObjectManager_HasNameInReferenceLibrary_m2CA1D807603E1EAC8A38688816F2EC6B23B152E2 (void);
+extern void ImageTrackingObjectManager_UpdateNameToPrefabMappings_m3652D4AD8EFDE3D7AD949E29B91DE86AFEECF6DE (void);
+extern void ImageTrackingObjectManager__ctor_m47BBB816461B58FD62D2535DDDB17C3847B035E5 (void);
+extern void U3CU3Ec__DisplayClass4_0__ctor_m1513A5DD43621D5AA2741B0BF56F8493C28AE3DB (void);
+extern void U3CU3Ec__DisplayClass4_0_U3COnTrackedImagesChangedU3Eb__0_m1FF0D7E1C01FC4742FC967A3D1DFCF491F05D34A (void);
+extern void U3CU3Ec__DisplayClass6_0__ctor_m766861E4FA5BCB0CFADDD7FFA5167A7E8889BA4D (void);
+extern void U3CU3Ec__DisplayClass6_0_U3CUpdateNameToPrefabMappingsU3Eb__0_m8F7C4CFCD4B43667D599DEF246A4F15DA088F316 (void);
+extern void ReadmeBE4__ctor_mA62B8452CE34D0CC70530EA661CE180EE2791C3F (void);
+extern void Section__ctor_m8200B05390C468E71C54314DE09280D87C5A4048 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[15] = 
+{
+	NameToPrefab__ctor_m2A2ABF7FADCC8D18FFD36566EC1664D90396E876,
+	ImageTrackingObjectManager_OnEnable_m2FB5E4DCEF00BE8916CE4BB7BB3A1856599536E7,
+	ImageTrackingObjectManager_OnDisable_mC4DD4735EAA6EA59FCF14C34ACB0E55506A5157E,
+	ImageTrackingObjectManager_OnTrackedImagesChanged_mAFD7E2558B8F2573C85374029B2131F8414539E9,
+	ImageTrackingObjectManager_HasNameInReferenceLibrary_m2CA1D807603E1EAC8A38688816F2EC6B23B152E2,
+	ImageTrackingObjectManager_UpdateNameToPrefabMappings_m3652D4AD8EFDE3D7AD949E29B91DE86AFEECF6DE,
+	ImageTrackingObjectManager__ctor_m47BBB816461B58FD62D2535DDDB17C3847B035E5,
+	U3CU3Ec__DisplayClass4_0__ctor_m1513A5DD43621D5AA2741B0BF56F8493C28AE3DB,
+	U3CU3Ec__DisplayClass4_0_U3COnTrackedImagesChangedU3Eb__0_m1FF0D7E1C01FC4742FC967A3D1DFCF491F05D34A,
+	U3CU3Ec__DisplayClass6_0__ctor_m766861E4FA5BCB0CFADDD7FFA5167A7E8889BA4D,
+	U3CU3Ec__DisplayClass6_0_U3CUpdateNameToPrefabMappingsU3Eb__0_m8F7C4CFCD4B43667D599DEF246A4F15DA088F316,
+	ReadmeBE4__ctor_mA62B8452CE34D0CC70530EA661CE180EE2791C3F,
+	Section__ctor_m8200B05390C468E71C54314DE09280D87C5A4048,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[15] = 
+{
+	6543,
+	6543,
+	6543,
+	5044,
+	1648,
+	6543,
+	6543,
+	6543,
+	3641,
+	6543,
+	3641,
+	6543,
+	6543,
+	9663,
+	6543,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	15,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
